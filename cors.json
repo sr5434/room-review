@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["http://127.0.0.1:3000"],
+      "method": ["PUT", "GET", "POST", "OPTIONS"],
+      "responseHeader": ["Content-Type"],
+      "maxAgeSeconds": 3600
+    }
+]

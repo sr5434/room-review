@@ -1,0 +1,2 @@
+# Room Review
+An AI-powered room design assistant. When a user uploads an image, GPT-4o analyzes it and suggests ways to improve the design of the room. Then, Imagen edits the image to include the changes suggested by GPT-4o.
